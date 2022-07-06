@@ -1,0 +1,2 @@
+# Ignore fine tuning models because they are larger than 100mb and github does not support this size
+*_fine_tuning
